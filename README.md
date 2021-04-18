@@ -1,11 +1,11 @@
 
 <p align="center">
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+  <img src="https://github.com/Manish-Kumar-Vats/Manish-Kumar-Vats/blob/main/images/500b27120a0a261bfab28f0390bf48df.gif" height="240"/>
 </p>
 <hr>
-<h1 align="center">Manish Kumar Vats <img src="https://raw.githubusercontent.com/manish-kumar-vats/manish-kumar-vats/master/images/flag.gif" width="80px"></h1>
+<h1 align="center">Manish Kumar Vats <img src="https://raw.githubusercontent.com/manish-kumar-vats/manish-kumar-vats/master/images/flag.gif" width="60px"></h1>
 <!-- 
-<h1 align="center">Manish Kumar Vats <img src="https://i.pinimg.com/originals/0f/8c/d4/0f8cd44e1e79663363a7438565fc6f8d.gif" width="80px"></h1> -->
+<h1 align="center">Manish Kumar Vats <img src="https://i.pinimg.com/originals/0f/8c/d4/0f8cd44e1e79663363a7438565fc6f8d.gif" width="50px"></h1> -->
 <h3 align="center">Android Developer | Software Engineer | Ingenious </h3>
 
 <p align="center">
@@ -46,7 +46,7 @@ I love🤍 to think, think about solutions and new innovations.
   🌞 Morning             ████████░░░░░░░░░░░░░░░░      17.09% 
   🌆 Daytime             ██████████░░░░░░░░░░░░░░      25.17% 
   🌃 Evening             ██████░░░░░░░░░░░░░░░░░░      16.05% 
-  🌙 Night               █████████████░░░░░░░░░░░      41.69%
+ 🌙 Night               █████████████░░░░░░░░░░░      41.69%
 
 ```
 
@@ -68,9 +68,9 @@ I love🤍 to think, think about solutions and new innovations.
 <div>
 <p>
 <p>
-<a href="https://play.google.com/store/apps/details?id=ai.secondbuy.www.secondbuy"> <img align="left" src="https://github.com/manish-kumar-vats/manish-kumar-vats/blob/main/images/secondbuy.png" /></a>
+<a href="https://play.google.com/store/apps/details?id=ai.secondbuy.www.secondbuy"> <img align="left" src="https://github.com/Manish-Kumar-Vats/Manish-Kumar-Vats/blob/main/images/secondbuy.PNG" /></a>
 <a href="https://play.google.com/store/apps/details?id=in.envites.android">
- <img align="right" src="https://github.com/manish-kumar-vats/manish-kumar-vats/blob/main/images/envites.png" /></a>
+ <img align="right" src="https://github.com/Manish-Kumar-Vats/Manish-Kumar-Vats/blob/main/images/envites.PNG" /></a>
 </p>
 <br><br>
 <p>
@@ -79,7 +79,6 @@ I love🤍 to think, think about solutions and new innovations.
 </p>
 </p>
 <hr>
-<div>
 
 <!-- 
 > Some recent contributions:
@@ -87,6 +86,8 @@ I love🤍 to think, think about solutions and new innovations.
 |-------------|-------------------|---|---|
 | [**Port Scanner**](https://github.com/vinitshahdeo/PortScanner) | [![GitHub issues](https://img.shields.io/github/issues/vinitshahdeo/PortScanner?color=green&logo=github&style=flat)](https://github.com/vinitshahdeo/PortScanner/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/vinitshahdeo/PortScanner?style=flat&logo=github)](https://github.com/vinitshahdeo/PortScanner/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/vinitshahdeo/PortScanner?style=flat&color=critical&logo=github)](https://github.com/vinitshahdeo/PortScanner/pulls?q=is%3Apr+is%3Aclosed)  |
 | [**Water Monitoring System**](https://github.com/vinitshahdeo/Water-Monitoring-System/) | [![GitHub issues](https://img.shields.io/github/issues/vinitshahdeo/Water-Monitoring-System?color=green&logo=github&style=flat)](https://github.com/vinitshahdeo/Water-Monitoring-System/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/vinitshahdeo/Water-Monitoring-System?style=flat&logo=github)](https://github.com/vinitshahdeo/Water-Monitoring-System/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/vinitshahdeo/Water-Monitoring-System?style=flat&color=critical&logo=github)](https://github.com/vinitshahdeo/Water-Monitoring-System/pulls?q=is%3Apr+is%3Aclosed)   | -->
+
+>
 
 <sup><kbd>***[Click here](https://github.com/Manish-Kumar-Vats?tab=repositories)***</kbd> *to view my other projects.</sup>* 
 
@@ -128,6 +129,7 @@ I love🤍 to think, think about solutions and new innovations.
 ---
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 #### Spotify Playing 🎧
+
 [![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/user/4nburt2mhqvbt2rx0s6l27egj)
 
 ---
