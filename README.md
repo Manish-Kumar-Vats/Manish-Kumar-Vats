@@ -65,37 +65,38 @@ I love🤍 to think, think about solutions and new innovations.
  <br>
 
 > Some recent projects:
+<p>
+
+<a href="https://play.google.com/store/apps/details?id=ai.secondbuy.www.secondbuy"> <img align="center" src="https://github.com/Manish-Kumar-Vats/Manish-Kumar-Vats/blob/main/images/secondbuy.PNG" /></a>
+<a href="https://play.google.com/store/apps/details?id=in.envites.android">
+ <img align="center" src="https://github.com/Manish-Kumar-Vats/Manish-Kumar-Vats/blob/main/images/envites.PNG" /></a>
+
+<br><br>
+
 <div>
 <p>
-<p>
-<a href="https://play.google.com/store/apps/details?id=ai.secondbuy.www.secondbuy"> <img align="left" src="https://github.com/Manish-Kumar-Vats/Manish-Kumar-Vats/blob/main/images/secondbuy.PNG" /></a>
-<a href="https://play.google.com/store/apps/details?id=in.envites.android">
- <img align="right" src="https://github.com/Manish-Kumar-Vats/Manish-Kumar-Vats/blob/main/images/envites.PNG" /></a>
+<a href="https://github.com/Manish-Kumar-Vats/Chat-App"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Manish-Kumar-Vats&repo=Chat-App" /></a>
+<a href="https://github.com/Manish-Kumar-Vats/Delhi-Tour-App"><img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Manish-Kumar-Vats&repo=Delhi-Tour-App" /></a>
 </p>
-<br><br>
-<p>
-<a href="https://github.com/Manish-Kumar-Vats/Chat-App">  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Manish-Kumar-Vats&repo=Chat-App" /></a>
-<a href="https://github.com/Manish-Kumar-Vats/Delhi-Tour-App"> <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Manish-Kumar-Vats&repo=Delhi-Tour-App" /></a>
-</p>
+</div>
 </p>
 <hr>
-
-<!-- 
-> Some recent contributions:
-|      Project :octocat:   |     Issues :bug:   | Open PRs :bell:  | Closed PRs :fire:  |
-|-------------|-------------------|---|---|
-| [**Port Scanner**](https://github.com/vinitshahdeo/PortScanner) | [![GitHub issues](https://img.shields.io/github/issues/vinitshahdeo/PortScanner?color=green&logo=github&style=flat)](https://github.com/vinitshahdeo/PortScanner/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/vinitshahdeo/PortScanner?style=flat&logo=github)](https://github.com/vinitshahdeo/PortScanner/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/vinitshahdeo/PortScanner?style=flat&color=critical&logo=github)](https://github.com/vinitshahdeo/PortScanner/pulls?q=is%3Apr+is%3Aclosed)  |
-| [**Water Monitoring System**](https://github.com/vinitshahdeo/Water-Monitoring-System/) | [![GitHub issues](https://img.shields.io/github/issues/vinitshahdeo/Water-Monitoring-System?color=green&logo=github&style=flat)](https://github.com/vinitshahdeo/Water-Monitoring-System/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/vinitshahdeo/Water-Monitoring-System?style=flat&logo=github)](https://github.com/vinitshahdeo/Water-Monitoring-System/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/vinitshahdeo/Water-Monitoring-System?style=flat&color=critical&logo=github)](https://github.com/vinitshahdeo/Water-Monitoring-System/pulls?q=is%3Apr+is%3Aclosed)   | -->
-
->
+<br><br>
 
 <sup><kbd>***[Click here](https://github.com/Manish-Kumar-Vats?tab=repositories)***</kbd> *to view my other projects.</sup>* 
 
 <div align="center">
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/manish-kumar-vats) [![Visitors](https://visitor-badge.glitch.me/badge?page_id=manish-kumar-vats.visitor-badge)](https://github.com/manish-kumar-vats) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/manish-kumar-vats)
+
 <!-- 
-![Profile Views](https://komarev.com/ghpvc/?username=manish-kumar-vats) -->
+![Profile Views](https://komarev.com/ghpvc/?username=manish-kumar-vats) 
+
+> Some recent contributions:
+|      Project :octocat:   |     Issues :bug:   | Open PRs :bell:  | Closed PRs :fire:  |
+|-------------|-------------------|---|---|
+| [**Port Scanner**](https://github.com/vinitshahdeo/PortScanner) | [![GitHub issues](https://img.shields.io/github/issues/vinitshahdeo/PortScanner?color=green&logo=github&style=flat)](https://github.com/vinitshahdeo/PortScanner/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/vinitshahdeo/PortScanner?style=flat&logo=github)](https://github.com/vinitshahdeo/PortScanner/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/vinitshahdeo/PortScanner?style=flat&color=critical&logo=github)](https://github.com/vinitshahdeo/PortScanner/pulls?q=is%3Apr+is%3Aclosed)  |
+| [**Water Monitoring System**](https://github.com/vinitshahdeo/Water-Monitoring-System/) | [![GitHub issues](https://img.shields.io/github/issues/vinitshahdeo/Water-Monitoring-System?color=green&logo=github&style=flat)](https://github.com/vinitshahdeo/Water-Monitoring-System/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/vinitshahdeo/Water-Monitoring-System?style=flat&logo=github)](https://github.com/vinitshahdeo/Water-Monitoring-System/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/vinitshahdeo/Water-Monitoring-System?style=flat&color=critical&logo=github)](https://github.com/vinitshahdeo/Water-Monitoring-System/pulls?q=is%3Apr+is%3Aclosed)   | -->
 
  </div>
  
