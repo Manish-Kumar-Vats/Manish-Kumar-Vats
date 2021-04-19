@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/Manish-Kumar-Vats/Manish-Kumar-Vats/blob/main/images/500b27120a0a261bfab28f0390bf48df.gif" height="240"/>
+  <img src="https://github.com/Manish-Kumar-Vats/Manish-Kumar-Vats/blob/main/images/cover2.gif" height="240"/>
 </p>
 <hr>
 <h1 align="center">Manish Kumar Vats <img src="https://raw.githubusercontent.com/manish-kumar-vats/manish-kumar-vats/master/images/flag.gif" width="60px"></h1>
@@ -17,7 +17,7 @@ I love🤍 to think, think about solutions and new innovations.
 
 
 <div align="center">
- <a href="https://docs.google.com/spreadsheets/d/1KMTPicXQAzhNsMLTBzooKtLBee37PrPICdYsfQ33zXw/edit?usp=sharing"> <b>Want to know more !?</b></a> <img src="https://media.giphy.com/media/YOSnx2K7DS2wWbBA0k/giphy.gif" width="50" />
+ <a align="center" href="https://docs.google.com/spreadsheets/d/1KMTPicXQAzhNsMLTBzooKtLBee37PrPICdYsfQ33zXw/edit?usp=sharing"> <b>Want to know more !?</b></a> <img src="https://media.giphy.com/media/YOSnx2K7DS2wWbBA0k/giphy.gif" width="50" />
 
 <p align="center">
 <a href="https://www.linkedin.com/in/manish-kumar-vats/" target="blank"><img align="center" src="https://simpleicons.org/icons/linkedin.svg" alt="manish_kumar_vats" height="30" width="40" /></a>
@@ -27,7 +27,6 @@ I love🤍 to think, think about solutions and new innovations.
  <a href = "https://github.com/Manish-Kumar-Vats"><img align="center" src="https://simpleicons.org/icons/github.svg" height="30" width="40" /></a>
  <a href = "https://open.kakao.com/me/manish"><img align="center" src="https://simpleicons.org/icons/kakaotalk.svg" height="30" width="40" /></a>
  <a href = "https://google.dev/u/103856551067655437378"><img align="center" src="https://simpleicons.org/icons/android.svg" height="30" width="40" /></a>
- <a href = "https://google.dev/u/103856551067655437378"><img align="center" src="https://media.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif" height="50" width="50" /></a>
  <a href = "https://stackoverflow.com/users/11256640/manish-kumar-vats">
  <img align="center" src="https://simpleicons.org/icons/stackoverflow.svg" height="30" width="40" /></a>
 </p>
@@ -39,14 +38,20 @@ I love🤍 to think, think about solutions and new innovations.
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=manish-kumar-vats)
 
+[![Manish Kumar Vats's github trophy](https://github-profile-trophy.vercel.app/?username=manish-kumar-vats&row=1)](https://github.com/manish-kumar-vats/github-profile-trophy)
+
+
 </div>
 
-
 ```text
-  🌞 Morning             ████████░░░░░░░░░░░░░░░░      17.09% 
-  🌆 Daytime             ██████████░░░░░░░░░░░░░░      25.17% 
-  🌃 Evening             ██████░░░░░░░░░░░░░░░░░░      16.05% 
- 🌙 Night               █████████████░░░░░░░░░░░      41.69%
+
+  🌞 Morning             ▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░      17.09% 
+  
+  🌆 Daytime             ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░      25.17% 
+  
+  🌃 Evening             ▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░      16.05% 
+  
+ 🌙 Night                ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░      41.69%
 
 ```
 
@@ -54,22 +59,24 @@ I love🤍 to think, think about solutions and new innovations.
   <summary><b>More stats</b><img src="https://media.giphy.com/media/izafuYxrFSEfMDKbJj/giphy.gif" width="28" /></summary>
  <br>
 <a href="https://github.com/manish-kumar-vats?tab=repositories" align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=manish-kumar-vats&show_icons=true&line_height=33&count_private=true&title_color=41d51e&text_color=888888&bg_color=fdfdfd" alt="Manish's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=manish-kumar-vats&show_icons=true&line_height=33&count_private=true&bg_color=fdfdfd" alt="Manish's GitHub Stats" />
 </a>
 <br>
 <br>
 <a href="https://github.com/manish-kumar-vats?tab=repositories">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=manish-kumar-vats&title_color=41d51e&text_color=000000&bg_color=fdfdfd&layout=compact" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=manish-kumar-vats&bg_color=fdfdfd&layout=compact" />
 </a>
  <br>
  <br>
 
 > Some recent projects:
+
 <p>
 
-<a href="https://play.google.com/store/apps/details?id=ai.secondbuy.www.secondbuy"> <img align="center" src="https://github.com/Manish-Kumar-Vats/Manish-Kumar-Vats/blob/main/images/secondbuy.PNG" /></a>
+<a href="https://play.google.com/store/apps/details?id=ai.secondbuy.www.secondbuy"> <img align="left" height="160" width="440" src="https://github.com/Manish-Kumar-Vats/Manish-Kumar-Vats/blob/main/images/secondbuy.PNG" /></a>
+
 <a href="https://play.google.com/store/apps/details?id=in.envites.android">
- <img align="center" src="https://github.com/Manish-Kumar-Vats/Manish-Kumar-Vats/blob/main/images/envites.PNG" /></a>
+ <img align="right" height="160" width="440" src="https://github.com/Manish-Kumar-Vats/Manish-Kumar-Vats/blob/main/images/envites.PNG" /></a>
 
 <br><br>
 
@@ -81,32 +88,37 @@ I love🤍 to think, think about solutions and new innovations.
 </div>
 </p>
 <hr>
-<br><br>
+</div>
+ 
+</details>
 
-<sup><kbd>***[Click here](https://github.com/Manish-Kumar-Vats?tab=repositories)***</kbd> *to view my other projects.</sup>* 
-
-<div align="center">
-
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/manish-kumar-vats) [![Visitors](https://visitor-badge.glitch.me/badge?page_id=manish-kumar-vats.visitor-badge)](https://github.com/manish-kumar-vats) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/manish-kumar-vats)
-
-<!-- 
-![Profile Views](https://komarev.com/ghpvc/?username=manish-kumar-vats) 
+<!-- ![Profile Views](https://komarev.com/ghpvc/?username=manish-kumar-vats) 
 
 > Some recent contributions:
+
 |      Project :octocat:   |     Issues :bug:   | Open PRs :bell:  | Closed PRs :fire:  |
 |-------------|-------------------|---|---|
 | [**Port Scanner**](https://github.com/vinitshahdeo/PortScanner) | [![GitHub issues](https://img.shields.io/github/issues/vinitshahdeo/PortScanner?color=green&logo=github&style=flat)](https://github.com/vinitshahdeo/PortScanner/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/vinitshahdeo/PortScanner?style=flat&logo=github)](https://github.com/vinitshahdeo/PortScanner/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/vinitshahdeo/PortScanner?style=flat&color=critical&logo=github)](https://github.com/vinitshahdeo/PortScanner/pulls?q=is%3Apr+is%3Aclosed)  |
-| [**Water Monitoring System**](https://github.com/vinitshahdeo/Water-Monitoring-System/) | [![GitHub issues](https://img.shields.io/github/issues/vinitshahdeo/Water-Monitoring-System?color=green&logo=github&style=flat)](https://github.com/vinitshahdeo/Water-Monitoring-System/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/vinitshahdeo/Water-Monitoring-System?style=flat&logo=github)](https://github.com/vinitshahdeo/Water-Monitoring-System/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/vinitshahdeo/Water-Monitoring-System?style=flat&color=critical&logo=github)](https://github.com/vinitshahdeo/Water-Monitoring-System/pulls?q=is%3Apr+is%3Aclosed)   | -->
+| [**Water Monitoring System**](https://github.com/vinitshahdeo/Water-Monitoring-System/) | [![GitHub issues](https://img.shields.io/github/issues/vinitshahdeo/Water-Monitoring-System?color=green&logo=github&style=flat)](https://github.com/vinitshahdeo/Water-Monitoring-System/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/vinitshahdeo/Water-Monitoring-System?style=flat&logo=github)](https://github.com/vinitshahdeo/Water-Monitoring-System/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/vinitshahdeo/Water-Monitoring-System?style=flat&color=critical&logo=github)](https://github.com/vinitshahdeo/Water-Monitoring-System/pulls?q=is%3Apr+is%3Aclosed)   |  -->
 
- </div>
- 
+
+
+<hr>
+<div align="center">
+
+<sup><kbd>***[Click here](https://github.com/Manish-Kumar-Vats?tab=repositories)***</kbd> *to view my other projects.</sup>* 
+
+
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/manish-kumar-vats) [![Visitors](https://visitor-badge.glitch.me/badge?page_id=manish-kumar-vats.visitor-badge)](https://github.com/manish-kumar-vats) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/manish-kumar-vats)
+
+<hr>
+
  <div>
 
   > GitHub 4 life 
 
   [![GitHub Game of Life](https://github4life.herokuapp.com/manish-kumar-vats.gif?z=6)](https://github4life.herokuapp.com/manish-kumar-vats)
   </div>
-</details>
 
 <hr>
 
@@ -129,6 +141,7 @@ I love🤍 to think, think about solutions and new innovations.
 
 ---
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
 #### Spotify Playing 🎧
 
 [![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/user/4nburt2mhqvbt2rx0s6l27egj)
