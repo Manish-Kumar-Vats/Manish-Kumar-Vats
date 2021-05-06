@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/Manish-Kumar-Vats/Manish-Kumar-Vats/blob/main/images/cover2.gif" height="240"/>
+  <img src="https://github.com/Manish-Kumar-Vats/Manish-Kumar-Vats/blob/main/images/cover5.gif" height="240"/>
 </p>
 <hr>
 <h1 align="center">Manish Kumar Vats <img src="https://raw.githubusercontent.com/manish-kumar-vats/manish-kumar-vats/master/images/flag.gif" width="60px"></h1>
@@ -51,7 +51,7 @@ I love🤍 to think, think about solutions and new innovations.
   
   🌃 Evening             ▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░      16.05% 
   
- 🌙 Night                ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░      41.69%
+ 🌙 Night               ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░      41.69%
 
 ```
 
